@@ -14,7 +14,7 @@
 <div style="display: inline_block"><br>
   <img  align="center"  alt="Victor-HTML"  height="40px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img  align="center"  alt="Victor-CSS"  height="40px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img  align="center"  alt="Victor-CSS"  height="40px"  src="https://github.com/photonstorm/phaser/blob/v2.6.2/resources/Phaser%20Logo/2D%20Text/Phaser%202D%20No%20Glow.png?raw=true">
+  <img  align="center"  alt="Victor-PHASER"  height="40px"  src="https://github.com/photonstorm/phaser/blob/v2.6.2/resources/Phaser%20Logo/2D%20Text/Phaser%202D%20No%20Glow.png?raw=true">
 </div>
 
 ## Conquistas
