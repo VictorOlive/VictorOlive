@@ -23,7 +23,9 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorOlive&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
+ 
 [![Linkedin Badge](https://img.shields.io/badge/-Victor%20Oliveira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorolive/)](https://www.linkedin.com/in/victorolive/) 
+  
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
