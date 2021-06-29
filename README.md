@@ -1,4 +1,4 @@
-# 👋 Oii eu sou o Victor! 😁
+# 👋 Oiii, eu sou o Victor! 😁
 
 👀 E aí, fica à vontade pra me conhecer!
 
