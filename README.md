@@ -5,7 +5,6 @@
 ## Sobre mim
 -   👨‍💻  Sou Programador e apaixonado por Tecnologia.
 -   👨‍🎓  Estudante de Análise e Desenvolvimento de Sistemas.
--   🤝  Estou em busca de projetos para colaborar e aprender.
 -   🎮  Desenvolvo jogos educacionais com framework Phaser.
 -   💻 Fiz 1 ano de Ciência da Computação,
 -   🎨 Design a 2 anos.
