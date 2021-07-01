@@ -29,6 +29,3 @@
  
 [![Linkedin Badge](https://img.shields.io/badge/-Victor%20Oliveira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorolive/)](https://www.linkedin.com/in/victorolive/) 
   
-
-  ![Snake animation](https://github.com/victorolive/victorolive/blob/output/github-contribution-grid-snake.svg)
-
