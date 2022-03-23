@@ -6,7 +6,6 @@
 -   👨‍💻  Sou Programador e apaixonado por Tecnologia.
 -   👨‍🎓  Estudante de Análise e Desenvolvimento de Sistemas.
 -   🎮  Desenvolvedor de jogos educacionais com framework Phaser.
--   💻 Fiz 1 ano de Ciência da Computação.
 -   💻 Estagiario em Desenvolvimento Salesforce 
 
 ## Habilidades
