@@ -3,7 +3,6 @@
 👀 E aí, fica à vontade pra me conhecer!
 
 ## Sobre mim
--   👨‍💻  Sou Programador e apaixonado por Tecnologia.
 -   👨‍🎓  Estudante de Análise e Desenvolvimento de Sistemas.
 -   🎮  Desenvolvedor de jogos educacionais com framework Phaser.
 -   💻 Estagiario em Desenvolvimento Salesforce 
