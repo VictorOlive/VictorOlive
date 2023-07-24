@@ -3,7 +3,7 @@
 👀 E aí, fica à vontade pra me conhecer!
 
 ## Sobre mim
--   👨‍🎓  Estudante de Análise e Desenvolvimento de Sistemas
+-   👨‍🎓  Formado em Análise e Desenvolvimento de Sistemas
 -   🎮  Desenvolvedor de jogos educacionais com framework Phaser
 -   💻 Estagiario em Desenvolvimento Salesforce 
 
